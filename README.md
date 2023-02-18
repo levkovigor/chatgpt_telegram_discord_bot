@@ -19,7 +19,6 @@
 ## Install
 
 1. `pip install -r requirements.txt`
-2. **Change the file name of `config.dev.json` to `config.json`**
 
 ## Step 1: Create a Discord bot
 
