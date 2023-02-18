@@ -27,7 +27,7 @@
 3. Get the token from bot setting
 
    ![image](https://user-images.githubusercontent.com/89479282/205949161-4b508c6d-19a7-49b6-b8ed-7525ddbef430.png)
-4. Store the token to `config.json` under the `discord_bot_token`
+4. Store the token to `config.dev.json` under the `discord_bot_token`
 
    ![image](https://user-images.githubusercontent.com/89479282/207357762-94234aa7-aa55-4504-8dfd-9c68ae23a826.png)
    
@@ -47,7 +47,7 @@
 
    ![image](https://user-images.githubusercontent.com/89479282/207970699-2e0cb671-8636-4e27-b1f3-b75d6db9b57e.PNG)
 
-2. Store the SECRET KEY to `config.json` under the `openAI_key`
+2. Store the SECRET KEY to `config.dev.json` under the `openAI_key`
 
 ## Step 3: Run the bot on the desktop
 1. Open a terminal or command prompt
@@ -77,4 +77,4 @@
    
         ![channel-id](https://user-images.githubusercontent.com/89479282/207697217-e03357b3-3b3d-44d0-b880-163217ed4a49.PNG)
     
-   2. paste it into `config.json` under `discord_channel_id `
+   2. paste it into `config.dev.json` under `discord_channel_id `
