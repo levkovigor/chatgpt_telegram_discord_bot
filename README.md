@@ -3,16 +3,11 @@
 > ### This is a project that provides you to build your own Discord bot using ChatGPT
 >
 > ⭐️ If this repo helps you, a star is the biggest support for me and also helps you stay up-to-date 
----
-> **Warning**
->
-> #### 2023-02-01 Update: Now using the official ChatGPT API
 
 ## Features
 
 * `/chat [message]` Chat with ChatGPT!
-* `/private` ChatGPT switch to private mode
-* `/public`  ChatGPT switch to public  mode
+* `/gpt3 [message]' Chat with GPT-3 when ChatGPT is not working
 * `/reset`   ChatGPT conversation history will be erased
 
 ### Chat
