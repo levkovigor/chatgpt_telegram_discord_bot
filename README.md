@@ -1,4 +1,4 @@
-# chatGPT-discord-bot
+# chatgpt_telegram_discord_bot
 
 > ### This is a project that provides you to build your own Discord bot using ChatGPT
 >
