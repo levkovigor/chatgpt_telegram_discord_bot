@@ -16,10 +16,6 @@
 
 # Setup
 
-## Install
-
-1. `pip install -r requirements.txt`
-
 ## Step 1: Create a Telegram bot
 
 Open Telegram messenger, sign in to your account or create a new one.
@@ -78,6 +74,10 @@ After you choose a suitable name for your bot — the bot is created. You will r
    ![image](https://user-images.githubusercontent.com/89479282/207970699-2e0cb671-8636-4e27-b1f3-b75d6db9b57e.PNG)
 
 2. Store the SECRET KEY to `config.dev.json` under the `openAI_key`
+
+## Install
+
+1. `pip install -r requirements.txt`
 
 ## Step 3: Run the bot on the desktop
 1. Open a terminal or command prompt
