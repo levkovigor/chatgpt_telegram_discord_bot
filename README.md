@@ -20,6 +20,36 @@
 
 1. `pip install -r requirements.txt`
 
+## Step 1: Create a Telegram bot
+
+Open Telegram messenger, sign in to your account or create a new one.
+
+1. Enter @Botfather in the search tab and choose this bot.
+
+Official Telegram bots have a blue checkmark beside their name.
+
+![image](https://www.spcdn.org/images/En-knowledge_base/chatbots/telegram/create-bot/scr1-min.png)
+
+Click “Start” to activate BotFather bot.
+
+![image](https://www.spcdn.org/images/En-knowledge_base/chatbots/telegram/create-bot/scr2-min.png)
+
+In response, you receive a list of commands to manage bots.
+
+2. Choose or type the /newbot command and send it.
+
+![image](https://www.spcdn.org/images/En-knowledge_base/chatbots/telegram/create-bot/scr3-min.png)
+
+3. Choose a name for your bot — your subscribers will see it in the conversation. And choose a username for your bot — the bot can be found by its username in searches. The username must be unique and end with the word “bot.”
+
+![image](https://www.spcdn.org/images/En-knowledge_base/chatbots/telegram/create-bot/scr4-min.png)
+
+After you choose a suitable name for your bot — the bot is created. You will receive a message with a link to your bot t.me/<bot_username>, recommendations to set up a profile picture, description, and a list of commands to manage your new bot.
+
+4. Store the token to `config.dev.json` under the `telegram_chat_gpt_API_key`
+
+![image](https://www.spcdn.org/images/En-knowledge_base/chatbots/telegram/create-bot/scr5-min.png)
+
 ## Step 1: Create a Discord bot
 
 1. Go to https://discord.com/developers/applications create an application
