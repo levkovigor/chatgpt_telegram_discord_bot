@@ -1,0 +1,7 @@
+discord.py==2.1.0
+openai==0.26.4
+asgiref==3.6.0
+python-dotenv==0.21.1
+revChatGPT==1.2.1
+pyTelegramBotAPI==4.9.0
+asyncio==3.4.3

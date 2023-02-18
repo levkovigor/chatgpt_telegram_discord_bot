@@ -1,0 +1,7 @@
+{
+    "discord_bot_token":"",
+    "discord_channel_id":"",
+    "openAI_key": "",
+	"telegram_chat_gpt_API_key":"",
+	"bot":"telegram"
+}
